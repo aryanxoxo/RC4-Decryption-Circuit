@@ -1,0 +1,6 @@
+Warning (10273): Verilog HDL warning at simple_rc_solution.v(427): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at simple_rc_solution.v(428): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at simple_rc_solution.v(431): extended using "x" or "z"
+Warning (10268): Verilog HDL information at simple_rc_solution.v(424): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at simple_rc_solution.v(527): always construct contains both blocking and non-blocking assignments
+Info (10281): Verilog HDL Declaration information at key_find_fsm.v(2): object "restart" differs only in case from object "RESTART" in the same scope

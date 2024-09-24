@@ -1,0 +1,65 @@
+module datapath_task2_testbench; 
+reg clk, commenco;
+reg [7:0] q; 
+reg [23:0] secret_key; 
+wire       wen,finito;
+wire [7:0] address, data;
+
+datapath_task2 inst_task2a(.address(address),.q(q),.data(data),.wen(wen),.commenco(finito),.clk(clk),.finito(finito),.secret_key(secret_key));
+initial begin 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 1; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 0;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+clk = 1;  commenco = 0; q = 0 ; secret_key = 3'h3FF; #100; 
+
+end 
+endmodule

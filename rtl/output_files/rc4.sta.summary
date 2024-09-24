@@ -1,0 +1,469 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'LAB1V2:clk_1kHz|clk_div'
+Slack : 8.842
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'altera_reserved_tck'
+Slack : 8.920
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : 11.949
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'datapath_task2b:inst_task2b|state[6]'
+Slack : 35.532
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'key_find_fsm:comb_16|state[3]'
+Slack : 35.621
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'key_find_fsm:comb_16|state[2]'
+Slack : 35.895
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'datapath_task2:inst_task2a|state[1]'
+Slack : 35.973
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'LAB1V2:clk_1kHz|clk_div'
+Slack : -0.013
+TNS   : -0.013
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.267
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'altera_reserved_tck'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'key_find_fsm:comb_16|state[3]'
+Slack : 0.668
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'datapath_task2b:inst_task2b|state[6]'
+Slack : 0.688
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'datapath_task2:inst_task2a|state[1]'
+Slack : 0.734
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'key_find_fsm:comb_16|state[2]'
+Slack : 0.847
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'altera_reserved_tck'
+Slack : 14.609
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'key_find_fsm:comb_16|state[2]'
+Slack : 36.938
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'datapath_task2b:inst_task2b|state[6]'
+Slack : 37.212
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'datapath_task2:inst_task2a|state[1]'
+Slack : 37.787
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'altera_reserved_tck'
+Slack : 0.589
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'datapath_task2:inst_task2a|state[1]'
+Slack : 0.787
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'datapath_task2b:inst_task2b|state[6]'
+Slack : 1.035
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'key_find_fsm:comb_16|state[2]'
+Slack : 1.361
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.852
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 15.107
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'LAB1V2:clk_1kHz|clk_div'
+Slack : 19.200
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'datapath_task2b:inst_task2b|state[6]'
+Slack : 19.383
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'datapath_task2:inst_task2a|state[1]'
+Slack : 19.391
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'key_find_fsm:comb_16|state[3]'
+Slack : 19.402
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'key_find_fsm:comb_16|state[2]'
+Slack : 19.404
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'LAB1V2:clk_1kHz|clk_div'
+Slack : 8.835
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'altera_reserved_tck'
+Slack : 9.208
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : 11.918
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'datapath_task2b:inst_task2b|state[6]'
+Slack : 35.522
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'key_find_fsm:comb_16|state[3]'
+Slack : 35.707
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'key_find_fsm:comb_16|state[2]'
+Slack : 35.868
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'datapath_task2:inst_task2a|state[1]'
+Slack : 35.991
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : -0.086
+TNS   : -0.096
+
+Type  : Slow 1100mV 0C Model Hold 'LAB1V2:clk_1kHz|clk_div'
+Slack : -0.047
+TNS   : -0.102
+
+Type  : Slow 1100mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.338
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'key_find_fsm:comb_16|state[3]'
+Slack : 0.650
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'datapath_task2b:inst_task2b|state[6]'
+Slack : 0.672
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'datapath_task2:inst_task2a|state[1]'
+Slack : 0.732
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'key_find_fsm:comb_16|state[2]'
+Slack : 0.853
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 14.699
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'key_find_fsm:comb_16|state[2]'
+Slack : 37.048
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'datapath_task2b:inst_task2b|state[6]'
+Slack : 37.305
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'datapath_task2:inst_task2a|state[1]'
+Slack : 37.883
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'altera_reserved_tck'
+Slack : 0.551
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'datapath_task2:inst_task2a|state[1]'
+Slack : 0.729
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'datapath_task2b:inst_task2b|state[6]'
+Slack : 0.961
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'key_find_fsm:comb_16|state[2]'
+Slack : 1.271
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.806
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 15.075
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'LAB1V2:clk_1kHz|clk_div'
+Slack : 19.237
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'datapath_task2:inst_task2a|state[1]'
+Slack : 19.369
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'key_find_fsm:comb_16|state[2]'
+Slack : 19.391
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'datapath_task2b:inst_task2b|state[6]'
+Slack : 19.395
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'key_find_fsm:comb_16|state[3]'
+Slack : 19.407
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'altera_reserved_tck'
+Slack : 11.996
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'LAB1V2:clk_1kHz|clk_div'
+Slack : 13.019
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : 14.522
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'datapath_task2b:inst_task2b|state[6]'
+Slack : 37.145
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'key_find_fsm:comb_16|state[3]'
+Slack : 37.277
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'datapath_task2:inst_task2a|state[1]'
+Slack : 37.398
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'key_find_fsm:comb_16|state[2]'
+Slack : 37.412
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'LAB1V2:clk_1kHz|clk_div'
+Slack : -0.268
+TNS   : -3.247
+
+Type  : Fast 1100mV 85C Model Hold 'altera_reserved_tck'
+Slack : 0.149
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.250
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'key_find_fsm:comb_16|state[3]'
+Slack : 0.315
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'datapath_task2b:inst_task2b|state[6]'
+Slack : 0.352
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'datapath_task2:inst_task2a|state[1]'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'key_find_fsm:comb_16|state[2]'
+Slack : 0.416
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'altera_reserved_tck'
+Slack : 15.759
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'key_find_fsm:comb_16|state[2]'
+Slack : 37.875
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'datapath_task2b:inst_task2b|state[6]'
+Slack : 38.027
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'datapath_task2:inst_task2a|state[1]'
+Slack : 38.563
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'datapath_task2:inst_task2a|state[1]'
+Slack : 0.220
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'altera_reserved_tck'
+Slack : 0.283
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'datapath_task2b:inst_task2b|state[6]'
+Slack : 0.427
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'key_find_fsm:comb_16|state[2]'
+Slack : 0.609
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.527
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 14.733
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'LAB1V2:clk_1kHz|clk_div'
+Slack : 19.430
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'datapath_task2b:inst_task2b|state[6]'
+Slack : 19.604
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'key_find_fsm:comb_16|state[3]'
+Slack : 19.608
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'datapath_task2:inst_task2a|state[1]'
+Slack : 19.632
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'key_find_fsm:comb_16|state[2]'
+Slack : 19.643
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'altera_reserved_tck'
+Slack : 12.631
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'LAB1V2:clk_1kHz|clk_div'
+Slack : 13.471
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : 15.012
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'datapath_task2b:inst_task2b|state[6]'
+Slack : 37.350
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'key_find_fsm:comb_16|state[3]'
+Slack : 37.483
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'key_find_fsm:comb_16|state[2]'
+Slack : 37.595
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'datapath_task2:inst_task2a|state[1]'
+Slack : 37.603
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'LAB1V2:clk_1kHz|clk_div'
+Slack : -0.277
+TNS   : -3.939
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.027
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.124
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'key_find_fsm:comb_16|state[3]'
+Slack : 0.282
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'datapath_task2b:inst_task2b|state[6]'
+Slack : 0.320
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'datapath_task2:inst_task2a|state[1]'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'key_find_fsm:comb_16|state[2]'
+Slack : 0.387
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 15.954
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'key_find_fsm:comb_16|state[2]'
+Slack : 38.064
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'datapath_task2b:inst_task2b|state[6]'
+Slack : 38.201
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'datapath_task2:inst_task2a|state[1]'
+Slack : 38.659
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'datapath_task2:inst_task2a|state[1]'
+Slack : 0.149
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'altera_reserved_tck'
+Slack : 0.245
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'datapath_task2b:inst_task2b|state[6]'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'key_find_fsm:comb_16|state[2]'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.478
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 14.711
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'LAB1V2:clk_1kHz|clk_div'
+Slack : 19.492
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'datapath_task2b:inst_task2b|state[6]'
+Slack : 19.620
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'key_find_fsm:comb_16|state[3]'
+Slack : 19.621
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'datapath_task2:inst_task2a|state[1]'
+Slack : 19.630
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'key_find_fsm:comb_16|state[2]'
+Slack : 19.642
+TNS   : 0.000
+
+------------------------------------------------------------

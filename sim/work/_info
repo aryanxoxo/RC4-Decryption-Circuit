@@ -1,0 +1,230 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab2/sim
+vCOUNTER
+Z0 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+Z1 !s110 1616400668
+!i10b 1
+!s100 @2LF0WVaQ3a`ZQi4On]dW2
+Ia6a;QbOzP5CEVP`Z<Q49T3
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+Z3 !s105 modules_under_test_sv_unit
+S1
+Z4 dC:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim
+Z5 w1616396369
+Z6 8C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/modules_under_test.sv
+Z7 FC:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/modules_under_test.sv
+L0 342
+Z8 OV;L;10.3c;59
+r1
+!s85 0
+31
+Z9 !s108 1616400668.648000
+Z10 !s107 C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/modules_under_test.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/modules_under_test.sv|
+!i113 1
+Z12 o-work work -sv
+n@c@o@u@n@t@e@r
+vCOUNTER_2
+R0
+R1
+!i10b 1
+!s100 863NTR11zNJXBfgMAjWJ^0
+I^c`RH8h7E_m;`bYb3ULFe3
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 357
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+n@c@o@u@n@t@e@r_2
+vdatapath_task1
+R0
+R1
+!i10b 1
+!s100 9W1@nKP4g@:aLaF<l`Y3Q1
+IUKg;EmhzWYVJaUD]:Ng>61
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 100
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+vdatapath_task1_testbench
+R1
+!i10b 1
+!s100 7=BGde10fI<PAJz[0nmeE2
+IJzN=@=h13QZdB>35]LN]C0
+R2
+R4
+w1616400665
+8C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/datapath_task1_testbench.v
+FC:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/datapath_task1_testbench.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1616400668.872000
+!s107 C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/datapath_task1_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/datapath_task1_testbench.v|
+!i113 1
+Z13 o-work work
+vdatapath_task2
+R0
+R1
+!i10b 1
+!s100 N]AFRa0HhV`2z[:Ai]fRe0
+Ic^<1z480:<1d`zZ_NHT@j2
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 143
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+vdatapath_task2_testbench
+R1
+!i10b 1
+!s100 IaD]MGHDgz2_dTed]VQHe2
+IBi5f7IoYJ07XjEGX[0=072
+R2
+R4
+w1616399450
+8C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/datapath_task2_testbench.v
+FC:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/datapath_task2_testbench.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1616400668.972000
+!s107 C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/datapath_task2_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/datapath_task2_testbench.v|
+!i113 1
+R13
+vdatapath_task2b
+R0
+R1
+!i10b 1
+!s100 lZ;7PBGLz^<BhgLdQXVZ_0
+I3`aM724NC6SIFF8b7<jK[2
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 218
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+vdatapath_task2b_tb
+R1
+!i10b 1
+!s100 ;zDBcY=alO`?^:]lh@h`92
+ImF70hE6SiUP@hTdEzaV@W2
+R2
+R4
+w1616397938
+8C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/datapath_task2b_tb.v
+FC:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/datapath_task2b_tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1616400668.768000
+!s107 C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/datapath_task2b_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/datapath_task2b_tb.v|
+!i113 1
+R13
+vkey_find_fsm
+R0
+R1
+!i10b 1
+!s100 7J11Q]<G_em827bXe2NHH2
+I4Jz2YAVoV1L=1TF]QShTM2
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+vkey_find_fsm_tb
+R1
+!i10b 1
+!s100 0d:o8RJ7Soc3`^7YZEWZ51
+IGQl<RBnU6?4CDKCa2?BU>0
+R2
+R4
+w1616396329
+8C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/key_find_fsm_tb.v
+FC:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/key_find_fsm_tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1616400668.560000
+!s107 C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/key_find_fsm_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim/key_find_fsm_tb.v|
+!i113 1
+R13
