@@ -1,1 +1,1 @@
-For the full README file, please refer to /docs. Not meant for un-authorized use!
+For the full README file, please refer to /doc. Not meant for un-authorized use!
